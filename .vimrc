@@ -1,4 +1,5 @@
 execute pathogen#infect()
+inoremap jk <ESC>
 let mapleader=","
 filetype plugin indent on
 syntax enable
